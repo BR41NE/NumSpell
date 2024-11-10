@@ -1,0 +1,19 @@
+{
+    "name": "br41ne/num-spell",
+    "description": "A PHP package for converting numbers to words and words to numbers.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Br41ne\\NumSpell\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edward Sena Ashilekpey",
+            "email": "ashilekpeyedwardsena@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
